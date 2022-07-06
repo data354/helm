@@ -3,7 +3,35 @@ entries:
   data-fair:
   - apiVersion: v2
     appVersion: "3.0"
-    created: "2022-07-06T16:24:52.958688015Z"
+    created: "2022-07-06T16:43:23.595902447Z"
+    description: A Helm chart for datafair project
+    digest: 6d50276f27f11c7a486332bc7ad1f12501daa61a4ad7a6325754d8757fca2fc4
+    home: https://koumoul.com/en
+    icon: https://data-fair.github.io/3/logo.png
+    keywords:
+    - Open-source
+    - data-fair
+    - datafair
+    - open data
+    - opendata
+    - koumoul
+    - data354
+    - data
+    - visualization
+    maintainers:
+    - email: edy.koffi@data354.co
+      name: Edy KOFFI
+      url: https://www.linkedin.com/in/edy-koffi-948494192/
+    name: data-fair
+    sources:
+    - https://github.com/data354/data-fair-chart
+    type: application
+    urls:
+    - https://data354.github.io/helm/data-fair/data-fair-1.0.4.tgz
+    version: 1.0.4
+  - apiVersion: v2
+    appVersion: "3.0"
+    created: "2022-07-06T16:43:23.593830325Z"
     description: A Helm chart for datafair project
     digest: b54ad92c35b33481080891d1379238f27b1cc7f4288869b50c058be8a7603a57
     home: https://koumoul.com/en
@@ -31,7 +59,7 @@ entries:
     version: 1.0.3
   - apiVersion: v2
     appVersion: "3.0"
-    created: "2022-07-06T16:24:52.955838989Z"
+    created: "2022-07-06T16:43:23.590153747Z"
     description: A Helm chart for datafair project
     digest: 34698673a21dbb2eefdb77cb3f8a6e9faf0090dacf0fa438fd20eeb0b901146e
     home: https://koumoul.com/en
@@ -60,7 +88,7 @@ entries:
     version: 1.0.2
   - apiVersion: v2
     appVersion: "4.0"
-    created: "2022-07-06T16:24:52.953884142Z"
+    created: "2022-07-06T16:43:23.587849482Z"
     description: A Helm chart for datafair project
     digest: df4f890d053c9e1550dd553dacc78e0befcd51ec81b0e20cd78e2b2b98eaa28b
     name: data-fair
@@ -68,4 +96,4 @@ entries:
     urls:
     - https://data354.github.io/helm/data-fair/data-fair-0.1.0.tgz
     version: 0.1.0
-generated: "2022-07-06T16:24:52.951934891Z"
+generated: "2022-07-06T16:43:23.585959999Z"
