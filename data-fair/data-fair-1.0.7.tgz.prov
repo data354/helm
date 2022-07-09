@@ -1,0 +1,44 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+apiVersion: v2
+appVersion: "3.0"
+description: A Helm chart for datafair project
+home: https://data-fair.github.io/3/
+icon: https://data-fair.github.io/3/logo.png
+keywords:
+- - Open-source
+- - data-fair
+- - datafair
+- - open data
+- - opendata
+- - koumoul
+- - data354
+- - data
+- - visualization
+maintainers:
+- - email: edy.koffi@data354.co
+  name: Edy KOFFI
+  url: https://www.linkedin.com/in/edy-koffi-948494192/
+name: data-fair
+sources:
+- - https://github.com/data354/data-fair-chart
+type: application
+version: 1.0.7
+
+...
+files:
+  data-fair-1.0.7.tgz: sha256:f68015843d77240ad6c0a674c79718eda3a583020c613ae71ab9b01f1d4feb12
+-----BEGIN PGP SIGNATURE-----
+
+wsDcBAEBCgAQBQJiyc8zCRARmBmTcKr+0QAA780MALEZCYjKNeNeHUZUTqgaskGm
+02eMVW+W5Qk38PXU3frucyKgInPZZ6tbp3Tw7UDS7x7LMXP4bjdFU5tK/N3IRPOh
+5+gueRFaP5LUjm4SFnPuv96dJRRGdiRWLm0GnUl2XcSbx9mBhuuqakmacCfYc2gV
+xV7YvScfpKc+r3875Vdl6HDalU1TVoZkEiOZF/bThBsnhynuIB2jNx+dCFV+Cmjf
+8yicmLC542w+TTXqji1jdtcedsXIUwIdEegMrqcsJJkZopLIbf67CvxkQG8pTGPo
+euhKGBbgs8ZjQb4qGO1IjhEYzRhFmhzFuWv8EPa1VLg7jhUTdb6AU1BsW5p+RVKd
+tW46ReNx8lASl93gCAKQzGHUh4VSgH75MOgONhvmtodgcsPS/STCYwr4rUQ1VVLJ
+Q8JnnhkNp+hG1Um2ZkK0rpfw8N/4n82VzQ4SW5q2IVWJed2aIeENYk34dXDgWUyQ
+GuRy0UsoO76O9Px7qkdTY+Xq9Eo2kG7ke6smai3Csg==
+=MKT9
+-----END PGP SIGNATURE-----
