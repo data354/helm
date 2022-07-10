@@ -8,10 +8,8 @@ home: https://data-fair.github.io/3/
 icon: https://data-fair.github.io/3/logo.png
 keywords:
 - - Open-source
-- - data-fair
-- - datafair
+- - data fair
 - - open data
-- - opendata
 - - koumoul
 - - data354
 - - data
@@ -28,17 +26,17 @@ version: 1.0.7
 
 ...
 files:
-  data-fair-1.0.7.tgz: sha256:f68015843d77240ad6c0a674c79718eda3a583020c613ae71ab9b01f1d4feb12
+  data-fair-1.0.7.tgz: sha256:c2bdad39d245ccedd7f1025fa34d501844b24dd74c38a3933193d6177b36ebc4
 -----BEGIN PGP SIGNATURE-----
 
-wsDcBAEBCgAQBQJiyc8zCRARmBmTcKr+0QAA780MALEZCYjKNeNeHUZUTqgaskGm
-02eMVW+W5Qk38PXU3frucyKgInPZZ6tbp3Tw7UDS7x7LMXP4bjdFU5tK/N3IRPOh
-5+gueRFaP5LUjm4SFnPuv96dJRRGdiRWLm0GnUl2XcSbx9mBhuuqakmacCfYc2gV
-xV7YvScfpKc+r3875Vdl6HDalU1TVoZkEiOZF/bThBsnhynuIB2jNx+dCFV+Cmjf
-8yicmLC542w+TTXqji1jdtcedsXIUwIdEegMrqcsJJkZopLIbf67CvxkQG8pTGPo
-euhKGBbgs8ZjQb4qGO1IjhEYzRhFmhzFuWv8EPa1VLg7jhUTdb6AU1BsW5p+RVKd
-tW46ReNx8lASl93gCAKQzGHUh4VSgH75MOgONhvmtodgcsPS/STCYwr4rUQ1VVLJ
-Q8JnnhkNp+hG1Um2ZkK0rpfw8N/4n82VzQ4SW5q2IVWJed2aIeENYk34dXDgWUyQ
-GuRy0UsoO76O9Px7qkdTY+Xq9Eo2kG7ke6smai3Csg==
-=MKT9
+wsDcBAEBCgAQBQJiypQACRAFfPxPoR9Z+AAAYR4MABt2+aGDxKby+BBPHGYe5cA/
+JCAdSJQmg66oetTnQlkR3KAiaMffE0Az7Zmasj1TlPnTe2ZJsT2PjJN6PwD/Hysq
+O0RHAVR3u23hl5cWDsD9sa9Hy1OfwVocmBCWkljw1ObxjNTAJnit7+6zMG0mHybI
+u3eTPLwLb1T/VnobqTpXeZ/pII3cDhHvHJyC9qtgH0QDoDtVKRwpv+6PratTq8MS
+icAzdXU6SZ0j30Na54DVLZ+v6vgE8yv8qaIA+whGgvzhK7SnqgKI5WMF9DFdxOeH
+KvGFhZtHnlSYCLkcOzuMxdrtpc2E9NQIYXxm5GS7MH5Pd9OsYY5xdGXATmUZKfMb
+g/wCd4g7yidofyQwnJQSILpvMRb7OodS1foKXBsARzJ8iJopSiOqLG4hgPyMdB3U
+EzRZx8452rXP5c8u7G3JSlJI3N4Ubpq/TCJ3GKQuizHLq6/sva5Mxe5TrK5Wudkr
+rGuOPTNvn3ctOVeqBbGNQC930j2YecYWhY56Z+Ex2g==
+=PE/K
 -----END PGP SIGNATURE-----
