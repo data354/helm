@@ -3,7 +3,33 @@ entries:
   data-fair:
   - apiVersion: v2
     appVersion: "3.0"
-    created: "2022-07-10T11:05:04.142810464Z"
+    created: "2022-07-11T13:25:46.339589426Z"
+    description: A Helm chart for datafair project
+    digest: 6e8d3adc3edfd0c64946f861b51bae16c8196bb6bfcec1cfe1c036ecfeb5eae0
+    home: https://data-fair.github.io/3/
+    icon: https://data-fair.github.io/3/logo.png
+    keywords:
+    - Open-source
+    - data fair
+    - open data
+    - koumoul
+    - data354
+    - data
+    - visualization
+    maintainers:
+    - email: edy.koffi@data354.co
+      name: Edy KOFFI
+      url: https://www.linkedin.com/in/edy-koffi-948494192/
+    name: data-fair
+    sources:
+    - https://github.com/data354/data-fair-chart
+    type: application
+    urls:
+    - https://data354.github.io/helm/data-fair/data-fair-1.0.9.tgz
+    version: 1.0.9
+  - apiVersion: v2
+    appVersion: "3.0"
+    created: "2022-07-11T13:25:46.337941123Z"
     description: A Helm chart for datafair project
     digest: 7e478e50095c3e79c954d084f18b6b71002711de1d8eec06dceffdbf145c2fa5
     home: https://data-fair.github.io/3/
@@ -29,7 +55,7 @@ entries:
     version: 1.0.8
   - apiVersion: v2
     appVersion: "3.0"
-    created: "2022-07-10T11:05:04.140412609Z"
+    created: "2022-07-11T13:25:46.335720868Z"
     description: A Helm chart for datafair project
     digest: c2bdad39d245ccedd7f1025fa34d501844b24dd74c38a3933193d6177b36ebc4
     home: https://data-fair.github.io/3/
@@ -55,7 +81,7 @@ entries:
     version: 1.0.7
   - apiVersion: v2
     appVersion: "3.0"
-    created: "2022-07-10T11:05:04.137052657Z"
+    created: "2022-07-11T13:25:46.331314358Z"
     description: A Helm chart for datafair project
     digest: fb9968ab472d9fb56dec5d64907a83ff532e4e9b0aadc35436978107d11c64da
     home: https://data-fair.github.io/3/
@@ -83,7 +109,7 @@ entries:
     version: 1.0.6
   - apiVersion: v2
     appVersion: "3.0"
-    created: "2022-07-10T11:05:04.133920487Z"
+    created: "2022-07-11T13:25:46.327874693Z"
     description: A Helm chart for datafair project
     digest: f23d6a2efec217ecc2e43e8149201b71f08f66732818ad89ef160954f43c060e
     home: https://data-fair.github.io/3/
@@ -111,7 +137,7 @@ entries:
     version: 1.0.5
   - apiVersion: v2
     appVersion: "3.0"
-    created: "2022-07-10T11:05:04.130649441Z"
+    created: "2022-07-11T13:25:46.325109692Z"
     description: A Helm chart for datafair project
     digest: 04946f2d43cb126a518a7be7c4e00705ae4b9f71a01b13e9358ee424c2a236f0
     home: https://koumoul.com/en
@@ -139,7 +165,7 @@ entries:
     version: 1.0.4
   - apiVersion: v2
     appVersion: "3.0"
-    created: "2022-07-10T11:05:04.128523213Z"
+    created: "2022-07-11T13:25:46.321698803Z"
     description: A Helm chart for datafair project
     digest: b54ad92c35b33481080891d1379238f27b1cc7f4288869b50c058be8a7603a57
     home: https://koumoul.com/en
@@ -167,7 +193,7 @@ entries:
     version: 1.0.3
   - apiVersion: v2
     appVersion: "3.0"
-    created: "2022-07-10T11:05:04.124931722Z"
+    created: "2022-07-11T13:25:46.318808892Z"
     description: A Helm chart for datafair project
     digest: 34698673a21dbb2eefdb77cb3f8a6e9faf0090dacf0fa438fd20eeb0b901146e
     home: https://koumoul.com/en
@@ -196,7 +222,7 @@ entries:
     version: 1.0.2
   - apiVersion: v2
     appVersion: "4.0"
-    created: "2022-07-10T11:05:04.119575916Z"
+    created: "2022-07-11T13:25:46.316469904Z"
     description: A Helm chart for datafair project
     digest: df4f890d053c9e1550dd553dacc78e0befcd51ec81b0e20cd78e2b2b98eaa28b
     name: data-fair
@@ -204,4 +230,4 @@ entries:
     urls:
     - https://data354.github.io/helm/data-fair/data-fair-0.1.0.tgz
     version: 0.1.0
-generated: "2022-07-10T11:05:04.116500564Z"
+generated: "2022-07-11T13:25:46.313553901Z"
