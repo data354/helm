@@ -3,7 +3,7 @@ entries:
   data-fair:
   - apiVersion: v2
     appVersion: "3.0"
-    created: "2022-12-19T00:06:35.846278025Z"
+    created: "2022-12-19T12:12:15.08952248Z"
     description: A Helm chart for datafair project
     digest: d8d7dd2fae244b43dcc242fe2b63d80c631f9d8f41ea3d83556e225aa0d82b20
     home: https://data-fair.github.io/3/
@@ -29,7 +29,7 @@ entries:
     version: 1.1.2
   - apiVersion: v2
     appVersion: "3.0"
-    created: "2022-12-19T00:06:35.844448854Z"
+    created: "2022-12-19T12:12:15.085723838Z"
     description: A Helm chart for datafair project
     digest: 81c04941e14a9c059355d3837984c13c4bc2aae00667c7e39b9314f080df75a2
     home: https://data-fair.github.io/3/
@@ -55,7 +55,7 @@ entries:
     version: 1.1.1
   - apiVersion: v2
     appVersion: "3.0"
-    created: "2022-12-19T00:06:35.842237318Z"
+    created: "2022-12-19T12:12:15.081626702Z"
     description: A Helm chart for datafair project
     digest: 5b57049731d62d8debb3fd06d7f5353f617e6ad3a1a9fe9da0475f2d3b432142
     home: https://data-fair.github.io/3/
@@ -81,7 +81,7 @@ entries:
     version: 1.1.0
   - apiVersion: v2
     appVersion: "3.0"
-    created: "2022-12-19T00:06:35.824964196Z"
+    created: "2022-12-19T12:12:15.046379499Z"
     description: A Helm chart for datafair project
     digest: 22f7771cb05c141a783c64f5e6207c8d2187412c61368fff2d0256ea9ea18dba
     home: https://data-fair.github.io/3/
@@ -107,7 +107,7 @@ entries:
     version: 1.0.12
   - apiVersion: v2
     appVersion: "3.0"
-    created: "2022-12-19T00:06:35.822627577Z"
+    created: "2022-12-19T12:12:15.036846265Z"
     description: A Helm chart for datafair project
     digest: a1ef8a6baf241f22fdc2b13da58cdfcb1b9f3ce13b103b4c2aa65635b613f202
     home: https://data-fair.github.io/3/
@@ -133,7 +133,7 @@ entries:
     version: 1.0.11
   - apiVersion: v2
     appVersion: "3.0"
-    created: "2022-12-19T00:06:35.840578965Z"
+    created: "2022-12-19T12:12:15.077939513Z"
     description: A Helm chart for datafair project
     digest: 6e8d3adc3edfd0c64946f861b51bae16c8196bb6bfcec1cfe1c036ecfeb5eae0
     home: https://data-fair.github.io/3/
@@ -159,7 +159,7 @@ entries:
     version: 1.0.9
   - apiVersion: v2
     appVersion: "3.0"
-    created: "2022-12-19T00:06:35.838885534Z"
+    created: "2022-12-19T12:12:15.074628363Z"
     description: A Helm chart for datafair project
     digest: 7e478e50095c3e79c954d084f18b6b71002711de1d8eec06dceffdbf145c2fa5
     home: https://data-fair.github.io/3/
@@ -185,7 +185,7 @@ entries:
     version: 1.0.8
   - apiVersion: v2
     appVersion: "3.0"
-    created: "2022-12-19T00:06:35.836539972Z"
+    created: "2022-12-19T12:12:15.069336713Z"
     description: A Helm chart for datafair project
     digest: c2bdad39d245ccedd7f1025fa34d501844b24dd74c38a3933193d6177b36ebc4
     home: https://data-fair.github.io/3/
@@ -211,7 +211,7 @@ entries:
     version: 1.0.7
   - apiVersion: v2
     appVersion: "3.0"
-    created: "2022-12-19T00:06:35.834988591Z"
+    created: "2022-12-19T12:12:15.06630528Z"
     description: A Helm chart for datafair project
     digest: fb9968ab472d9fb56dec5d64907a83ff532e4e9b0aadc35436978107d11c64da
     home: https://data-fair.github.io/3/
@@ -239,7 +239,7 @@ entries:
     version: 1.0.6
   - apiVersion: v2
     appVersion: "3.0"
-    created: "2022-12-19T00:06:35.833299697Z"
+    created: "2022-12-19T12:12:15.062426189Z"
     description: A Helm chart for datafair project
     digest: f23d6a2efec217ecc2e43e8149201b71f08f66732818ad89ef160954f43c060e
     home: https://data-fair.github.io/3/
@@ -267,7 +267,7 @@ entries:
     version: 1.0.5
   - apiVersion: v2
     appVersion: "3.0"
-    created: "2022-12-19T00:06:35.831661364Z"
+    created: "2022-12-19T12:12:15.059451139Z"
     description: A Helm chart for datafair project
     digest: 04946f2d43cb126a518a7be7c4e00705ae4b9f71a01b13e9358ee424c2a236f0
     home: https://koumoul.com/en
@@ -295,7 +295,7 @@ entries:
     version: 1.0.4
   - apiVersion: v2
     appVersion: "3.0"
-    created: "2022-12-19T00:06:35.829071215Z"
+    created: "2022-12-19T12:12:15.054676488Z"
     description: A Helm chart for datafair project
     digest: b54ad92c35b33481080891d1379238f27b1cc7f4288869b50c058be8a7603a57
     home: https://koumoul.com/en
@@ -323,7 +323,7 @@ entries:
     version: 1.0.3
   - apiVersion: v2
     appVersion: "3.0"
-    created: "2022-12-19T00:06:35.827143079Z"
+    created: "2022-12-19T12:12:15.050720261Z"
     description: A Helm chart for datafair project
     digest: 34698673a21dbb2eefdb77cb3f8a6e9faf0090dacf0fa438fd20eeb0b901146e
     home: https://koumoul.com/en
@@ -352,7 +352,7 @@ entries:
     version: 1.0.2
   - apiVersion: v2
     appVersion: "4.0"
-    created: "2022-12-19T00:06:35.820848074Z"
+    created: "2022-12-19T12:12:15.033299446Z"
     description: A Helm chart for datafair project
     digest: df4f890d053c9e1550dd553dacc78e0befcd51ec81b0e20cd78e2b2b98eaa28b
     name: data-fair
@@ -363,7 +363,28 @@ entries:
   monitoring-stack:
   - apiVersion: v2
     appVersion: 1.17.0
-    created: "2022-12-19T00:06:35.846634731Z"
+    created: "2022-12-19T12:12:15.091262382Z"
+    description: A Stack for managing logging and monitoring
+    digest: 8c264db61ca2c15f3cfcffc699f815878dab86bb9060710f44cf760667c5d0bd
+    keywords:
+    - monitoring
+    - logging
+    - data354
+    - kubernetes
+    - helm
+    maintainers:
+    - email: edy.koffi@gmail.com
+      name: Edy Koffi
+      url: https://www.linkedin.com/in/edy-koffi-948494192/
+    name: monitoring-stack
+    sources:
+    - https://github.com/data354/monitoring-stack
+    urls:
+    - https://data354.github.io/helm/monitoring-stack/monitoring-stack-1.1.0.tgz
+    version: 1.1.0
+  - apiVersion: v2
+    appVersion: 1.17.0
+    created: "2022-12-19T12:12:15.090614267Z"
     description: A Stack for managing logging and monitoring
     digest: 82576dc2342077fd37934ca88509f40f021e0271b28e8bae5c69082211a6bc50
     keywords:
@@ -382,4 +403,4 @@ entries:
     urls:
     - https://data354.github.io/helm/monitoring-stack/monitoring-stack-1.0.0.tgz
     version: 1.0.0
-generated: "2022-12-19T00:06:35.819065924Z"
+generated: "2022-12-19T12:12:15.029811454Z"
